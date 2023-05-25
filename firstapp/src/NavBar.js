@@ -6,7 +6,7 @@ const NavBar = () => {
                 <a href="/">Home</a>
             <a href="/create" /* style={{
 
-                //Inline Styling
+                Inline Styling
                 
                 color: "white",
                 backgroundColor: '#f1356d',
